@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+
+img {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 10px;
+    border: pink;
+}
+
+
+button {
+    background-color: rgb(238, 25, 202);
+    color: rgb(44, 30, 41);
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: darkblue;
+}
+
+P  {
+    color: pink;
+}
+h1 {
+    color: pink;
+}
+h2 {
+    color: pink;
+}
